@@ -1,5 +1,5 @@
 # Object Prediction & Class Suggestions Quiz Application
-A Rest API which provides the total number of objects, actual detected class names and a list of options as a JSON response.
+A Rest API which provides the total number of objects, actual detected class names and a list of optional class names in an image as a JSON response.
 
 # Model Used
 I have used YOLOV3-tiny model. Can also use YOLOV3 model
